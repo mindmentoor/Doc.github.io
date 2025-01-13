@@ -176,16 +176,16 @@ p{
 
 /* --------------- Site title ---------------- */
 main .site-title{
-    background: url('ankara-turkey-city-skyline-silhouette-white-background-flat-vector-illustration-business-travel-tourism-concept-with-modern-old-buildings-image-banner-website_596401-224~2.jpg');
+    background: url('/paper-cut-style-skyline-building-background-get-best-apartment-views_1017-44165.jpg');
     background-size: cover;
-    height: 70vh;
+    height: 38vh;
     display: flex;
     justify-content: center;
     
 }
 
 main .site-title .site-background{
-    padding-top: 10rem;
+    padding-top: 2rem;
     text-align: center;
     color:black;
 }
@@ -193,10 +193,11 @@ main .site-title .site-background{
 main .site-title h1, h3{
     margin: .3rem;
     font-family: sans-serif;
+    font-size: 1rem;
 }
 
 main .site-title .btn{
-    margin: 1.8rem;
+    margin: 0.8rem;
     background: var(--sky);
 }
 
